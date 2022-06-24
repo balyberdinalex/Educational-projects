@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Data-preparation-and-visualize-for-estate-market">Исследование надёжности заёмщиков</a></td>
+  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
   <td>Яндекс.Практикум</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
   <td>Python,
