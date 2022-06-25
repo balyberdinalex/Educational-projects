@@ -34,7 +34,7 @@ Pandas</td>
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/balyberdinalex/Data-preparation-and-visualize-for-estate-market">Исследование объявлений о продаже квартир</a></td>
+  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Data-preparation-and-visualize-for-estate-market">Исследование объявлений о продаже квартир</a></td>
   <td>Яндекс.Практикум</td>
   <td>Имеются данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости</td>
   <td>Python,
@@ -54,7 +54,7 @@ SciPy</td>
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/balyberdinalex/Game-market-analysis">Прогноз продаж в интернет-магазине</a></td>
+  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Game-market-analysis">Прогноз продаж в интернет-магазине</a></td>
   <td>Яндекс.Практикум</td>
   <td>На основании доступных данных о продажах игр необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании</td>
   <td>Python,
@@ -80,7 +80,7 @@ Matplotlib
   <th>Используемые библиотеки</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/balyberdinalex/Toxic-Tweets">Классификация токсичных комментариев</a></td>
+  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Toxic-Tweets">Классификация токсичных комментариев</a></td>
   <td>Яндекс.Практикум</td>
   <td>Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. В распоряжении набор данных с разметкой о токсичности правок</td>
   <td>
@@ -92,7 +92,7 @@ Matplotlib
 </td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/balyberdinalex/Resume-analysis/">Анализ рабочей программы инструментами Knime Analytics Platform</a></td>
+  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Resume-analysis/">Анализ рабочей программы инструментами Knime Analytics Platform</a></td>
   <td>МИФИ</td>
   <td>Необходимо провести оптимизацию рабочей программы учебного курса с требованиями работодателя.</td>
   <td>
