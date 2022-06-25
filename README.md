@@ -43,7 +43,7 @@ Matplotlib</td>
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/balyberdinalex/Mobile-tariffs-analysis">Определение перспективного тарифа для телеком компании</a></td>
+  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Resume-analysis">Определение перспективного тарифа для телеком компании</a></td>
   <td>Яндекс.Практикум</td>
   <td>Клиентам предлагают два тарифных плана. Предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет</td>
   <td>Python,
