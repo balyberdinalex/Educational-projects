@@ -65,6 +65,22 @@ NumPy,
 Matplotlib
 </td>
 </tr>
+
+<tr>
+  <td><a href = "https://github.com/balyberdinalex/Educational-projects/tree/main/Telecom-market-analysis">Прогноз оттока клиентов от оператора связи</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>На основании собранных оператором персональных данные о некоторых клиентах, информацию об их тарифах и договорах
+   необходимо оценить уход клиента из компании. Это позволит предложить клиенту промокоды и специальные условия</td>
+  <td>Python,
+Pandas,
+NumPy,
+Matplotlib,
+CatBoostClassifier,
+DecisionTreeClassifier,
+LogisticRegression,
+RandomForestClassifier
+</td>
+</tr>
 </table>
 </details>
 
